@@ -12,4 +12,5 @@
   - npx tsc
 - configuring compiler
   - npx tsc --init
-  - 
+
+- tsconfig.json 파일에 ts compiler 동작 정의되어 있는듯
