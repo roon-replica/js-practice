@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../react-quick-start"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-practice"
+	}
+}

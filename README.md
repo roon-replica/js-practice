@@ -3,3 +3,13 @@
 
 ### 유용한 사이트
 - https://javascript.info/
+- https://www.w3schools.com/typescript/index.php
+
+
+### typescript 설정
+- installing compiler
+  - npm install typescript --save-dev
+  - npx tsc
+- configuring compiler
+  - npx tsc --init
+  - 
